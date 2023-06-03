@@ -1,0 +1,53 @@
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\bin\Debug\Visualisation.exe.config
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\bin\Debug\Visualisation.exe
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\bin\Debug\Visualisation.pdb
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\obj\Debug\Visualisation.csproj.AssemblyReference.cache
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\obj\Debug\Visualisation.csproj.SuggestedBindingRedirects.cache
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\obj\Debug\Visualisation.Properties.Resources.resources
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\obj\Debug\Visualisation.csproj.GenerateResource.cache
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\obj\Debug\Visualisation.csproj.CoreCompileInputs.cache
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\obj\Debug\Visualisation.exe
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\obj\Debug\Visualisation.pdb
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\obj\Debug\Visualisation.csproj.CopyComplete
+C:\Users\kira\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Visualisation\obj\Debug\Visualisation.FormVisualisation.resources
+C:\Users\студент\Desktop\Visualisation\bin\Debug\Visualisation.exe.config
+C:\Users\студент\Desktop\Visualisation\bin\Debug\Visualisation.exe
+C:\Users\студент\Desktop\Visualisation\bin\Debug\Visualisation.pdb
+C:\Users\студент\Desktop\Visualisation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\студент\Desktop\Visualisation\obj\Debug\Visualisation.csproj.AssemblyReference.cache
+C:\Users\студент\Desktop\Visualisation\obj\Debug\Visualisation.csproj.SuggestedBindingRedirects.cache
+C:\Users\студент\Desktop\Visualisation\obj\Debug\Visualisation.FormVisualisation.resources
+C:\Users\студент\Desktop\Visualisation\obj\Debug\Visualisation.Properties.Resources.resources
+C:\Users\студент\Desktop\Visualisation\obj\Debug\Visualisation.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\Visualisation\obj\Debug\Visualisation.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\Visualisation\obj\Debug\Visualisation.csproj.CopyComplete
+C:\Users\студент\Desktop\Visualisation\obj\Debug\Visualisation.exe
+C:\Users\студент\Desktop\Visualisation\obj\Debug\Visualisation.pdb
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\bin\Debug\Visualisation.exe.config
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\bin\Debug\Visualisation.exe
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\bin\Debug\Visualisation.pdb
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.csproj.AssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.csproj.SuggestedBindingRedirects.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.FormVisualisation.resources
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.csproj.CopyComplete
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.exe
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.pdb
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\bin\Debug\Visualisation.exe.config
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\bin\Debug\Visualisation.exe
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\bin\Debug\Visualisation.pdb
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.csproj.AssemblyReference.cache
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.csproj.SuggestedBindingRedirects.cache
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.FormVisualisation.resources
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.csproj.CopyComplete
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.exe
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Visualisation\obj\Debug\Visualisation.pdb
